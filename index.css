@@ -1,0 +1,13 @@
+/* Write your code here. */
+.like {
+  background-color: #eab308;
+  color: white;
+}
+.comment {
+  background-color: white;
+  color: black;
+}
+.share {
+  background-color: blue;
+  color: white;
+}
